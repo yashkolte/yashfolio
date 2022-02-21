@@ -100,7 +100,7 @@
   color: rgb(83, 83, 83);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
   body {
     overflow: hidden;
   }
